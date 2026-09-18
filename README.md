@@ -1,4 +1,4 @@
-# Hi there, I'm sluipmoord! 👋
+# Hi there, I'm Gerhard Janse Van Rensburg! 👋
 
 ## About Me
 I'm a passionate developer with a love for coding and problem-solving. I enjoy exploring new technologies and continuously improving my skills.
